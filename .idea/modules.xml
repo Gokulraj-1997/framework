@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/framework.iml" filepath="$PROJECT_DIR$/.idea/framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gittutorial/.idea/gittutorial.iml" filepath="$PROJECT_DIR$/../gittutorial/.idea/gittutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject1/.idea/pythonpractise.iml" filepath="$PROJECT_DIR$/../pythonProject1/.idea/pythonpractise.iml" />
+    </modules>
+  </component>
+</project>
